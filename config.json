@@ -1,0 +1,12 @@
+{
+    "Techpath":{
+        "Database":{
+            "Host": "localhost",
+            "Port": "3306",
+            "User": "root",
+            "Password":"rohit123",
+            "Database":"Resource_Assets"
+        }
+       
+    }
+}
